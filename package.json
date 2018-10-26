@@ -1,0 +1,24 @@
+{
+  "name": "test-softwareseni",
+  "version": "1.0.0",
+  "description": "tes software seni",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sutralia",
+  "license": "ISC",
+  "dependencies": {
+    "@types/express": "^4.16.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.6"
+  },
+  "devDependencies": {
+    "babel-preset-stage-3": "^6.22.0",
+    "babel-cli": "*",
+    "babel-core": "*",
+    "babel-preset-es2015-node5": "*",
+    "babel-register": "*"
+  }
+}
